@@ -60,7 +60,7 @@ class _LoginPageState extends State<LoginPage> {
         title: Text(
           'Login Page',
           style: const TextStyle(
-            color: Colors.white, // AppBar text color
+            color: Colors.black, // AppBar text color
             fontWeight: FontWeight.bold,
             fontSize: 30,
           ),
